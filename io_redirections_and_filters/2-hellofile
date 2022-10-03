@@ -1,0 +1,2 @@
+#!/bint/bash
+cat /etc/passwd
