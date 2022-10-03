@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=x 4-empty
+chmod 700 4-empty
